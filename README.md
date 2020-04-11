@@ -8,15 +8,6 @@ This application is a benchmark project to test backend (node-koa, elixir-erlang
 
 https://github.com/helabenkhalfallah/science-daily-app/projects
 
-## Application
-
-![APP](./SCIENCE-DAILY-APP.jpeg)
-
-
-## Architecture 
-
-![ARCHITECTURE](./SCIENCE-DAILY-ARCHITECTURE.jpeg)
-
 
 ## Needed services :
 
