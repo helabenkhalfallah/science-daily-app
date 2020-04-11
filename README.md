@@ -1,2 +1,2 @@
 # science-daily-app
-A benchmark project to test backend (rust, node, elixir-erlang-phoenix, haskell-yesod) &amp; frontend (react, elm) technologies.
+A benchmark project to test backend (rust, node-koa, elixir-erlang-phoenix, haskell-yesod) & frontend (react, elm) technologies.
