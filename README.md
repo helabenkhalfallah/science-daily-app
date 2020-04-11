@@ -8,8 +8,12 @@ This application is a benchmark project to test backend (node-koa, elixir-erlang
 
 https://github.com/helabenkhalfallah/science-daily-app/projects
 
+## Application 
 
-## Needed services :
+![SCIENCE-DAILY-APP-1](./SCIENCE-DAILY-APP-1.png)
+
+
+## Needed services
 
 - get topics : all news, top news, top science, top health, top technology, top environment, top society, strange & offbeat, most popular, categories
 - get news by topic
