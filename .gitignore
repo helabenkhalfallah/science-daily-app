@@ -105,3 +105,9 @@ dist
 
 # Mac OS DStore
 .DS_Store
+
+# Intellij
+.idea
+*.iml
+*/target
+
