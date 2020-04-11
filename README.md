@@ -4,6 +4,9 @@
 
 This application is a benchmark project to test backend (rust, node-koa, elixir-erlang-phoenix, haskell-yesod) & frontend (react, elm) technologies.
 
+## Realisation phases
+
+https://github.com/helabenkhalfallah/science-daily-app/projects
 
 ## Application
 
