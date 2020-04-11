@@ -7,6 +7,9 @@ This application is a benchmark project to test backend (rust, node-koa, elixir-
 
 ## Application
 
+![APP](./SCIENCE-DAILY-APP.jpeg)
 
 
 ## Architecture 
+
+![ARCHITECTURE](./SCIENCE-DAILY-ARCHITECTURE.jpeg)
